@@ -1,0 +1,15 @@
+/Users/a-.-/Desktop/дз_25_02/задача_50/obj/Debug/net6.0/задача_50.csproj.AssemblyReference.cache
+/Users/a-.-/Desktop/дз_25_02/задача_50/obj/Debug/net6.0/задача_50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a-.-/Desktop/дз_25_02/задача_50/obj/Debug/net6.0/задача_50.AssemblyInfoInputs.cache
+/Users/a-.-/Desktop/дз_25_02/задача_50/obj/Debug/net6.0/задача_50.AssemblyInfo.cs
+/Users/a-.-/Desktop/дз_25_02/задача_50/obj/Debug/net6.0/задача_50.csproj.CoreCompileInputs.cache
+/Users/a-.-/Desktop/дз_25_02/задача_50/bin/Debug/net6.0/задача_50
+/Users/a-.-/Desktop/дз_25_02/задача_50/bin/Debug/net6.0/задача_50.deps.json
+/Users/a-.-/Desktop/дз_25_02/задача_50/bin/Debug/net6.0/задача_50.runtimeconfig.json
+/Users/a-.-/Desktop/дз_25_02/задача_50/bin/Debug/net6.0/задача_50.dll
+/Users/a-.-/Desktop/дз_25_02/задача_50/bin/Debug/net6.0/задача_50.pdb
+/Users/a-.-/Desktop/дз_25_02/задача_50/obj/Debug/net6.0/задача_50.dll
+/Users/a-.-/Desktop/дз_25_02/задача_50/obj/Debug/net6.0/refint/задача_50.dll
+/Users/a-.-/Desktop/дз_25_02/задача_50/obj/Debug/net6.0/задача_50.pdb
+/Users/a-.-/Desktop/дз_25_02/задача_50/obj/Debug/net6.0/задача_50.genruntimeconfig.cache
+/Users/a-.-/Desktop/дз_25_02/задача_50/obj/Debug/net6.0/ref/задача_50.dll
