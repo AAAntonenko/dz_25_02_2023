@@ -36,21 +36,19 @@ Console.WriteLine();
 void SumOfColumns (int[,] array)
 {
     int[] sumColumn = new int[array.GetLength(1)];
-    for (int i = 0; i < array.GetLength(0); i++)
+    for (int i = 0; i < array.GetLength(1); i++)
             {
-                for (int j = 0; j < array.GetLength(1); j++)
+                for (int j = 0; j < array.GetLength(0); j++)
                 {     
                 sumColumn[i] += array[j, i];      
                 } 
             }
             Console.WriteLine();
-            foreach (double elem in sumColumn)
-            {
-                
-                Console.WriteLine(elem/array.GetLength(0));
-            }
- 
-        }
+    foreach (double elem in sumColumn)
+    {        
+    Console.WriteLine(elem/array.GetLength(0));
+    }
+}
 
 SumOfColumns(array);
 
